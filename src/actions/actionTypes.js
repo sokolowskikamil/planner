@@ -1,0 +1,2 @@
+export const CREATE_NEW_EVENT = 'CREATE_NEW_EVENT';
+export const REMOVE_EVENT = 'REMOVE_EVENT';
